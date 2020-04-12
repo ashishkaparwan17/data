@@ -1,0 +1,69 @@
+state,address,latitude,longitude
+delhi ,"Lal Path Labs, Block -E, Sector 18, Rohini, Delhi",28.738942,77.136414
+delhi ," Dr  Dangs  Lab,  C-2/1,  Safadarjung  Development  Area,  New- Delhi",28.550136,77.203448
+delhi ,"Laboratory  Services,  Indraprastha  Apollo  Hospitals,  Sarita Vihar, New Delhi",28.540611,77.283421
+delhi ," Max Lab, Max Super Spciality Hospital, Saket, New-Delhi",28.527656,77.2121
+delhi ,"Sir Ganga Ram Hospital Clinical Lab Services, Sir Ganga Ram Hospital, Delhi",28.638842,77.190108
+delhi ,"Oncquest Labs Ltd, 3-Factory Road, New-Delhi",28.56852,77.20181
+delhi ," Prognosis Laboratories, 515-16, Sector 19, Dwarka",28.580249,77.050982
+delhi ,"City  X-Ray  &  Scan  Clinic  Pvt  Ltd,  4B/18,  Tilak  Nagar,  New- Delhi",28.639093,77.08677
+gujarat,"Unipath   Specialty   laboratory   limited,   102,   Sanoma   Plaza, Opposite   Parimal   Garden,   Besides   JMC   House,   Ellisbridge, Ahmedabad",23.019137,72.555663
+gujarat,"Supratech  Micropath  Laboratory  &  Research  Institute  Pvt  Ltd, Kedar, Ahmedabad",23.019818,72.559275
+gujarat," SN GeneLab Pvt Ltd, President Plaza ?A, Near Mahavir Hospital, Nanpura, Surat",21.183366,72.814357
+gujarat,"Pangenomics International Pvt Ltd, Ellis Bridge, Ahmedabad",23.019567,72.560587
+haryana,"Strand Life Sciences, A-17, Sector 34, Gurugram",28.429434,77.015524
+haryana,"SRL Limited, GP26, Sector 18, Gurugram",28.489166,77.061716
+haryana," Modern Diagnostic & Research Centre-Lab, 363-364/4, JAwahar Nagar. Gurgaon",28.466014,77.026944
+haryana," Core Diagnostics Pvt Ltd, Udyog Vihar Phase-3, Gurgaon",28.50929,77.091632
+haryana,"MolQ Laboratory, Plot 28,29; Sector 18(P), Electronic city, Udyog Vihar, Phase IV, Gurgaon",28.500404,77.072066
+haryana,"Pathkind Diagnostics Pvt Ltd, Plot 55-56, Phase 4, Udyog Vihar, Sec 18, Gurgaon",28.493016,77.082643
+karnataka," Neuberg   Anand   Reference   Laboratory,   Anand   Tower,   #54, Bowring Hospital Road, Bengaluru",12.982109,77.60378
+karnataka,"Cancyte  Technologies  Pvt  Ltd,  Sri  Shankara  Research  Centre, Bengaluru",12.95439,77.571652
+karnataka," Sakra World Hospital Lab Services, Devarabeesanahalli VArthur Hobli, Bengaluru",12.932322,77.68517
+karnataka,"Central Diagnostic Lab, Vydehi Institute of Medical Sciences and Research Centre, #82, E.P.I.P. Area, Whitefield, Bengaluru",12.975846,77.729404
+karnataka," Lab   Services,  Apollo   Hospitals,  154/11,  Bannerghatta   Road, Bengaluru",12.896035,77.599455
+maharashtra,"Thyrocare Technologies Limited, D37/1, TTC MIDC, Turbhe, Navi Mumbai",19.061699,73.02556
+maharashtra,"Suburban  Diagnostics  (India)  Pvt.  Ltd.,  306,  307/T,  3rd   Floor, Sunshine Bld., Andheri (W), Mumbai",19.137595,72.825455
+maharashtra,"Metropolis   Healthcare   Ltd,   Unit   No.   409-416,   4th     Floor, Commercial Building-1, Kohinoor Mall, Mumbai",19.082019,72.885709
+maharashtra,"Sir  H.N.  Reliance  Foundation  Hospital  and  Research  Centre, Molecular Medicine, Reliance Life Sciences Pvt. Ltd., R-282, TTC Industrial Area, Rabale, Navi Mumbai",19.139209,73.004441
+maharashtra,"SRL   Limited,   Prime   Square   Building,   Plot   No   1,   Gaiwadi Industrial Estate, SV Road, Goregaon, Mumbai",19.171395,72.845612
+maharashtra,"A.G. Diagnostics Pvt Ltd, Nayantara Building, Pune",18.518846,73.831076
+maharashtra,"Kokilaben    Dhirubhai    Ambani    Hospital    Laboratory,    Four Bungalows, Mumbai",19.131252,72.825057
+maharashtra,"InfeXn Laboratories Private Limited, A/131, Therelek Compound, Road No 23, Wagle Industrial Estate, Thane (W)",19.19504,72.94855
+maharashtra,"iGenetic   Diagnostics   Pvt   Ltd,   Krislon   House,   Andheri   East, Mumbai",19.110265,72.887078
+maharashtra,"Tata   Memorial   Centre   Diagnostic   Services-Tata   Memorial Hospital, Parel, Mumbai",19.004906,72.843163
+maharashtra,"Sahyadri  Speciality  Labs,  Plot  No  54,  S.No.  89-90,  Lokmanya Colony, Kothrud, Pune",18.507756,73.804414
+maharashtra,"Dr.  Jariwala  Lab  &  Diagnostics  LLP,  1st   Floor,  Rasraj  Heights, Rokadia Lane, Off Mandpeshwar Road, Borivli (W), Mumbai",19.235817,72.856489
+maharashtra,"Ruby Hall Clinic, Dept of Laboratory, Grant Medical Foundation, 40, Sassoon Road, Pune",18.533379,73.87703
+maharashtra,"Metropolis Healthcare Limited, Construction House, 796/189-B, Bhandarkar Institute Road, Pune",18.518278,73.834451
+maharashtra,"Qualilife   Diagnostics,   Balaji   Arcade,  1st    Floor,   544/A,   Netaji Subhash Road, Mulund (W), Mumbai",19.176067,72.953748
+orissa," Dept of Lab Services, Apollo Hospitals, Bhubaneswar",20.305735,85.831659
+tamil nadu,"Dept. of Clinical Virology, CMC, Vellore",12.924615,79.134808
+tamil nadu,"Department of Laboratory Services, Apollo Hospitals Enterprise Ltd, Chennai",13.061118,80.253313
+tamil nadu,"Neuberg  Ehrlich  Lab  Pvt  Ltd,  46-48  Masilamani  Road,  Balaji Nagar, Chennai",13.048611,80.266064
+tamil nadu,"Sri  Ramachandra  Medical  College  &  Research  Institute,  Porur, Chennai",13.039121,80.142158
+tamil nadu,"Microbiology Lab, Veerakeralam Road, Coimbatore",11.023361,76.910401
+tamil nadu," YRG CARE, Taramani, Chennai",13.084222,80.233422
+tamil nadu,"Hitech   Diagnostic   Centre-   A   Unit   of   Dr.   Ganesan?s   Hitech Diagnostic Centre PVt Ltd, Poonamallee High Road, Chennai",13.085553,80.250448
+tamil nadu,"MIOT   Hospitals   ?   Dept   of   Lab   Medicine,   4/112,   Mount Poonamallee Road, Manapakkam, Chennai",13.021581,80.185582
+tamil nadu," Madras   Medical   Mission   Clinical   Lab   Services,   4-A,   Dr.   J. Jayalalitha Nagar, Mogappair East, Chennai",13.086145,80.187372
+telangana," Laboratory Services,   Apollo  Hospitals, 6th  Floor, Health Street Building, Jubilee Hills, Hyderabad",17.413788,78.411919
+telangana,"Vijaya Diagnostic Centre Pvt Ltd, Street No 19, Himayath Nagar, Hyderabad",17.401571,78.41216
+telangana,"Vimta   Labs   Ltd,   Plot   No   142,   Phase   2,   IDA   Cherlapally, Hyderabad",17.470674,78.602282
+telangana,"Apollo   Health   and   Lifestyle   Limited,   Diagnostic   Labortory, Bowenpally, Secunderabad",17.469132,78.484314
+telangana,"Dr.   Remedies   Labs   Private   Ltd,   A3,   Titus   Plaza,   Sharma Commercial Complex, Punjagutta, Hyderabad",17.424513,78.453068
+telangana,"Pathcare Labs Pvt Ltd, Medchal, Hyderabad",17.444741,78.469179
+telangana,"American  Institute  of  Pathology  And  Lab  Sciences  Pvt  Ltd, Citizens Hospital, Serilingampally, Hyderabad",17.47039,78.310832
+telangana,"Medcis  Pathlabs  India  Pvt  Ltd,  Plot  No  16  &  17,  Swathi  Plaza, Anand Nagar, New Bowenpally, Secunderabad",17.458771,78.478341
+telangana,"Department of Lab Medicine, Yashoda  Hospital, 9th  Floor, 1-1- 156 & 157, Alexander Road, Secunderabad",17.442071,78.497037
+telangana,"Biognosys  Technologies  (India)  Pvt  Ltd,  #8-148/174/11,  NRI Colony, Near Aleap Industrial Area, Medchal, Malkajgiri",17.533529,78.392618
+up,"RML Mehrotra Pathology Pvt Ltd, Nirala Nagar,  Lucknow",26.87518,80.937716
+up,"Dept of Lab Medicine, Jaypee Hospital, Sector 128, Noida",28.515438,77.371438
+uttrakhand,"Dr.  Ahuja?s  Pathology  and  Imaging  Centre,  7-B,  Astley  Hall, Dehradun",30.326833,78.04702
+west bengal,"Apollo Gleneagles Hospitals, 58 Canal Circular Road, Kolkata",22.574779,88.40166
+west bengal,"Tata Medical Center, Rajarhat, Kolkata",22.577136,88.479629
+west bengal,"Laboratory   Services,  Peerless  Hospitex  Hospital  &  Research Centre, 360, Panchasayar, Kolkata",22.48068,88.394172
+west bengal,"AMRI Hospitals, Dept of Lab Medicine, JC 16-17, Sector III, Salt Lake City, Kolkata",22.568305,88.411658
+west bengal,"Suraksha   Diagnostic   Pvt   Ltd   (Dept   of   Lab   Services),   12/1, Premises  No  02/0327,  DG  Block  (Newtown),  Action  Area  1D, Newtown, Kolkata",22.580647,88.476098
+kerala,"DDRC SRL Diagnostics Pvt Ltd, Panampilly Nagar, Ernakulam",9.963522,76.295287
+kerala,"MIMS Lab Services, Govindapuram, Kozhikode",11.245791,75.798655
